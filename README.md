@@ -20,7 +20,7 @@ Databases & Tools:MySQL, Git, Postman, IntelliJ, Eclipse, VS Code, WAMP, Maven
 
 🏆 Experience
 
-Smart India Hackathon 2024 Finalist
+Smart India Hackathon 2024 
 
 Theme: Heritage & Culture
 
