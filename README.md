@@ -1,51 +1,70 @@
-💻 Chetan Verma
+<h1 align="center">Hi 👋, I'm Chetan Verma</h1>
+<h3 align="center">Java Backend Developer | Full Stack Developer</h3>
 
-Computer Science Undergrad | Full-Stack Developer | Java | Spring Boot | React
+<p align="center">
+  <a href="mailto:thisis.chetan.verma@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/chetan-verma-c21" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
 
-👋 About Me
+---
 
-Hey there! I'm Chetan, a B.Tech Computer Science student at Medicaps University. I enjoy building full-stack web applications and solving real-world problems using Java, Spring Boot, Hibernate, and React. I've participated in the Smart India Hackathon and love working on scalable backend systems and intuitive user interfaces.
+🔧 **Tech Stack**
 
-[![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/hritik5102)](https://github.com/hritik5102) [![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white&link=https://github.com/hritik5102)](https://github.com/hritik5102) [![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c++&link=https://github.com/hritik5102)](https://github.com/hritik5102) [![C](https://img.shields.io/badge/-A8B9CC?style=flat&logo=c&logoColor=white&link=https://github.com/hritik5102)](https://github.com/hritik5102) [![Tensorflow](https://img.shields.io/badge/-Tensorflow-gray?style=flat&logo=tensorflow&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
+- 💻 **Languages:** Java, C, C++, JavaScript, SQL  
+- 🌐 **Web Tech:** HTML, CSS, JSP, Servlets  
+- 🚀 **Frameworks & Libraries:** Spring Boot, Spring MVC, Hibernate, React  
+- 🧰 **Tools & Platforms:** Git, MySQL, Maven, Postman, IntelliJ, Eclipse, WAMP  
 
-[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/hritik5102)](https://github.com/hritik5102) [![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&link=https://github.com/hritik5102)](https://github.com/hritik5102) [![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&link=https://github.com/hritik5102)](https://github.com/hritik5102) [![Keras](https://img.shields.io/badge/-Keras-red?style=flat&logo=keras&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
+---
 
-[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/hritik5102)](https://github.com/hritik5102) [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/hritik5102)](https://github.com/hritik5102) [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&link=https://github.com/hritik5102)](https://github.com/hritik5102) [![React](https://img.shields.io/badge/-React-black?style=flat&logo=react&link=https://github.com/hritik5102)](https://github.com/hritik5102) [![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&link=https://github.com/hritik5102)](https://github.com/hritik5102)
+🛠️ **Projects**
 
-[![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat&logo=Node.js&link=https://github.com/hritik5102)](https://github.com/hritik5102) [![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker&link=https://github.com/hritik5102)](https://github.com/hritik5102) [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&link=https://github.com/hritik5102)](https://github.com/hritik5102) [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/hritik5102)](https://github.com/hritik5102)
+- 🔹 **E-Shopper**  
+  A dynamic e-commerce platform with secure authentication, shopping cart, admin dashboard, and payment simulation.  
+  `Java • Spring Boot • JSP • MySQL • Maven • HTML/CSS`
 
-[![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/hritik5102)](https://github.com/hritik5102) [![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat&logo=gitlab&link=https://github.com/hritik5102)](https://gitlab.com/hritik5102) [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/hritik5102)](https://github.com/hritik5102)
+- 🔹 **AffordACar**  
+  Online marketplace for buying & selling used cars with user and admin modules, filters, and interactive UI.  
+  `Java • Spring MVC • Hibernate • MySQL • JavaScript • HTML/CSS`
 
+- 🔹 **Farm Fresh**  
+  A farmer-to-consumer marketplace with multi-role access and mobile-friendly design.  
+  `Java • JSP • JDBC • MySQL • HTML/CSS`
 
-🚀 Projects
+---
 
-🔸 E-Shopper — Full-stack e-commerce application with customer and admin modules. Built with Spring Boot, JSP, MySQL.🔸 AffordACar — A car affordability calculator based on user income and expenses. Built with Spring MVC and Hibernate.🔸 Farm Fresh — A platform for farmers to sell fresh produce online. Developed using JSP, Servlets, and MySQL.
+☁️ **Experience**
 
-🏆 Experience
+- **Cloud Computing Intern – AWS Academy**  
+  *Medicaps University, Jan 2025 – Jun 2025*  
+  - Gained hands-on AWS skills in EC2, S3, IAM, RDS, VPC, Lambda, and more.
+  - Certified in Cloud Foundations & Cloud Architecting.
 
-Smart India Hackathon 2024 
+---
 
-Theme: Heritage & Culture
+🏆 **Achievements**
 
-Built a cultural preservation platform using Java, Spring Boot, and MySQL
+- **Smart India Hackathon 2024 – University-Level Finalist**  
+  - Top 30 out of 200+ teams  
+  - Built a responsive heritage-themed solution with Java, Spring Boot & MySQL.
 
-Integrated media elements for a rich user experience
+---
 
-Worked in a collaborative 6-member team under tight deadlines
+📈 **GitHub Stats**
 
-📫 Let's Connect
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=chetanverma&show_icons=true&theme=github_dark" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chetanverma&layout=compact&theme=github_dark" height="150"/>
+</p>
 
-Email: thisis.chetan.verma@gmail.com
+---
 
-LinkedIn: www.linkedin.com/in/chetan-verma-c21
+📫 **Let's Connect!**
 
-🔍 Currently Exploring
+- 💬 Email: [thisis.chetan.verma@gmail.com](mailto:thisis.chetan.verma@gmail.com)
+- 🔗 LinkedIn: [chetan-verma-c21](https://www.linkedin.com/in/chetan-verma-c21)
 
-CI/CD pipelines
+---
 
-RESTful APIs
-
-System Design Principles
-
-Thanks for visiting my profile! Feel free to check out my repositories and drop a ⭐ if you like something.
+_🚀 Always ready to contribute, collaborate and build something impactful._
 
