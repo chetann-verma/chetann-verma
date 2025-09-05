@@ -53,7 +53,7 @@
 📈 **GitHub Stats**
 
 <p align="center">
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=chetann-verma&show_icons=true&theme=midnight-purple)
+ <img src="https://github-readme-stats.vercel.app/api?username=chetanverma&show_icons=true&theme=midnight-purple&cache_seconds=1800" alt="Chetan's GitHub stats" />
 
 </p>
 
