@@ -53,9 +53,8 @@
 📈 **GitHub Stats**
 
 <p align="center">
-  <img src="[https://github-readme-stats.vercel.app/api?username=chetann-verma&show_icons=true&theme=midnight-purple]
-    
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chetanverma&layout=compact&theme=midnight-purple" height="150"/>
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=chetann-verma&show_icons=true&theme=midnight-purple)
+
 </p>
 
 ---
