@@ -53,12 +53,26 @@
 📈 **GitHub Stats**
 
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=chetann-verma&show_icons=true&theme=midnight-purple&cache_seconds=1800" alt="Chetan's GitHub stats" />
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chetann-verma&layout=compact&theme=midnight-purple" height="180em" />
-<img src="https://github-profile-trophy.vercel.app/?username=chetann-verma&theme=onedark&margin-w=15&margin-h=15" />
-
-
+  <img src="https://github-readme-stats.vercel.app/api?username=chetann-verma&show_icons=true&theme=midnight-purple" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chetann-verma&layout=compact&theme=midnight-purple" height="180em" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chetann-verma&theme=midnight-purple" height="180em" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=chetann-verma&theme=onedark&margin-w=15&margin-h=15" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chetann-verma&theme=react-dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chetann-verma&theme=github_dark" />
+</p>
+
 
 ---
 
