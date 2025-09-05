@@ -54,6 +54,8 @@
 
 <p align="center">
  <img src="https://github-readme-stats.vercel.app/api?username=chetann-verma&show_icons=true&theme=midnight-purple&cache_seconds=1800" alt="Chetan's GitHub stats" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chetann-verma&layout=compact&theme=midnight-purple" height="180em" />
+
 
 </p>
 
