@@ -61,9 +61,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=chetann-verma&theme=midnight-purple" height="180em" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=chetann-verma&theme=onedark&margin-w=15&margin-h=15" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=chetann-verma&theme=react-dark&hide_border=true" />
